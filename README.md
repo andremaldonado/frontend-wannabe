@@ -13,6 +13,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* Thank you @priscilang for these classes;
+* Thank you [Priscila Costa](https://github.com/priscilacng) for these classes;
 * The lessos are based on [Shay Howe's website](getting-to-know-css/).
 
